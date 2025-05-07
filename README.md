@@ -1,5 +1,7 @@
 # Lab 5 - Starter
 
+Eric Wang
+
 [expose](https://erw004.github.io/cse-110-lab-5/expose.html)
 [explore](https://erw004.github.io/cse-110-lab-5/explore.html)
 
